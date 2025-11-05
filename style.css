@@ -59,3 +59,21 @@ footer {
   font-size: 14px;
   color: white;
 }
+/* Dark/Light Mode Toggle Button */
+.mode-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    padding: 6px 12px; /* smaller button */
+    font-size: 14px; /* smaller font */
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #ffb74d;
+    color: #222;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.mode-btn:hover {
+    background-color: #ffa726;
+}

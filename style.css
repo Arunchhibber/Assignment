@@ -24,3 +24,38 @@ h1 {
   margin-bottom: 20px;
   color: #333;
 }
+quote-box {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-left: 5px solid #66a6ff;
+  border-radius: 8px;
+  margin-bottom: 25px;
+}
+
+#quote {
+  font-size: 18px;
+  color: #444;
+  font-style: italic;
+}
+
+/* Button */
+button {
+  background-color: #66a6ff;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #4a8dfc;
+}
+footer {
+  position: fixed;
+  bottom: 10px;
+  font-size: 14px;
+  color: white;
+}

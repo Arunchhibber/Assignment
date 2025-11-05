@@ -1,6 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #89f7fe, #66a6ff);
+ background: linear-gradient(135deg, #fff3e0, #ffe0b2);
   height: 100vh;
   margin: 0;
   display: flex;
@@ -40,7 +40,7 @@ quote-box {
 
 /* Button */
 button {
-  background-color: #66a6ff;
+  background-color: #ffb74d;
   color: white;
   padding: 10px 25px;
   border: none;
